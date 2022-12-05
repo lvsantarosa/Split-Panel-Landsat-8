@@ -2,6 +2,4 @@
 
 This is just a exercicie to pratice app creiation and use in areas exploration to see temporal beahvior. The Split Panel is a widget containing two panels with a divider between them. The divider can be dragged, allowing the panels to be resized. One or both panels may be ui.Map objects.
 
-<a href="https://lucassantarosa.users.earthengine.app/view/split-panel-uy
-" target="_blank">![image](https://user-images.githubusercontent.com/60663771/205682513-deb646e6-231f-4934-b918-19b80af0d600.png)
-
+See the app: https://lucassantarosa.users.earthengine.app/view/split-panel-uy
